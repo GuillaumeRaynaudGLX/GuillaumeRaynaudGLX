@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GuillaumeRaynaudGLX
 - 👀 I’m interested in 3D/Maya/Python
-- 🌱 I’m currently learning 3D animation
+- 🌱 I’m currently working at Ubisoft as a junior technical artist
 - 💞️ I’m looking to collaborate on movies
 - 📫 How to reach me: raynaud.guillaume.83@gmail.com
 
